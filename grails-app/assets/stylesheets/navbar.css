@@ -1,0 +1,21 @@
+ /* si anda el css del bootstrap 4, borrar este del bootstrap 3 */
+     .btn-primary-outline{
+         background-color:transparent;
+         border-color:#888;
+     }
+     #desplazamiento{
+         margin-top:20px;  
+     }
+     .dropdown-menu a:hover{
+         color:white;
+         background-color:#f0ad4e;
+     }
+     .dropdown:hover>.dropdown-menu {
+         display: block;
+     }
+     .btn-primary-outline{
+         background-color:transparent;
+         border-color:#888;
+     }
+  /* navbar del bootstrap 4 */
+  
